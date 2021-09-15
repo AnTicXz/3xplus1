@@ -10,7 +10,7 @@ namespace _3x_1
         {
              int ThreeX(int value)
             {
-                while(value  1)
+                while(value > 1)
                 {
                     if(value % 2 == 0)
                     {
